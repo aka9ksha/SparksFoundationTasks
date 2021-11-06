@@ -17,8 +17,7 @@ In this internship, we were provided a total of 8 tasks and I was able to succes
 1. What will be predicted score if a student studies for 9.25 hrs/ day?
 
 
-[<img align = right height = 60 width = 60 src = https://cdn1.iconfinder.com/data/icons/data-science-flat/60/008_-_Process-512.png>]
-(https://github.com/aka9ksha/SparksFoundationTasks/blob/main/Tasks/Task-2_Clustering.ipynb)
+[<img align = right height = 60 width = 60 src = https://cdn1.iconfinder.com/data/icons/data-science-flat/60/008_-_Process-512.png>](https://github.com/aka9ksha/SparksFoundationTasks/blob/main/Tasks/Task-2_Clustering.ipynb)
 
 ### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 
