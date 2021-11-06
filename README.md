@@ -5,7 +5,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Type** - Work form Home
 
 In this internship, we were provided a total of 8 tasks and I was able to successfully complete 3 tasks within the given time-frame.
-[<img align = right height = 60 width = 60 src = https://cdn1.iconfinder.com/data/icons/data-science-flat/60/008_-_Process-512.png>](https://github.com//aka9ksha/blob/main/Task-1_Linear_Regression.ipynb)
+[<img align = right height = 60 width = 60 src = https://cdn1.iconfinder.com/data/icons/data-science-flat/60/008_-_Process-512.png>](https://github.com/aka9ksha/SparksFoundationTasks/blob/main/Tasks/Task-1_Linear_Regression.ipynb.ipynb)
 
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
