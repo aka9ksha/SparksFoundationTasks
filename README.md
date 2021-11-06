@@ -8,7 +8,7 @@ In this internship, we were provided a total of 8 tasks and I was able to succes
 [<img align = right height = 60 width = 60 src = https://cdn1.iconfinder.com/data/icons/data-science-flat/60/008_-_Process-512.png>](https://github.com/aka9ksha/SparksFoundationTasks/blob/main/Tasks/Task-1_Linear_Regression.ipynb)
 
 
-### # Task-1 : Prediction using Supervised ML (Level - Beginner)
+### - Task-1 : Prediction using Supervised ML (Level - Beginner)
 
 1. Predict the percentage of marks of an student based on the number of study hours.
 1. This is a simple linear regression task as it involves just 2 variables.
@@ -19,8 +19,13 @@ In this internship, we were provided a total of 8 tasks and I was able to succes
 
 [<img align = right height = 60 width = 60 src = https://cdn1.iconfinder.com/data/icons/data-science-flat/60/008_-_Process-512.png>](https://github.com/aka9ksha/SparksFoundationTasks/blob/main/Tasks/Task-2_Clustering.ipynb)
 
-### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
+### - Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 1. Use R or Python or perform this task.
 1. Data can be found at (https://bit.ly/3kXTdox)
+
+
+ ### References -
+ - [Tableau](https://help.tableau.com/v2018.3/offline/en-us/tableau_desktop.pdf) 
+ - [Scikit Learn](https://scikit-learn.org/stable/)
